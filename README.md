@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sankri15/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sankri15/leetcode/tree/master/0013-roman-to-integer) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sankri15/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sankri15/leetcode/tree/master/0013-roman-to-integer) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sankri15/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sankri15/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/sankri15/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
