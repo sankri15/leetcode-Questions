@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sankri15/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sankri15/leetcode/tree/master/0011-container-with-most-water) |
+| [1288-remove-covered-intervals](https://github.com/sankri15/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sankri15/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sankri15/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2574-left-and-right-sum-differences](https://github.com/sankri15/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/sankri15/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sankri15/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
