@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sankri15/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sankri15/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sankri15/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sankri15/leetcode/tree/master/0011-container-with-most-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sankri15/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
