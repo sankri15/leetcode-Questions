@@ -177,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/sankri15/leetcode/tree/master/3161-block-placement-queries) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sankri15/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
