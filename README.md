@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sankri15/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sankri15/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sankri15/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sankri15/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sankri15/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -194,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sankri15/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
