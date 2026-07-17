@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sankri15/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sankri15/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sankri15/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sankri15/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sankri15/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sankri15/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -224,11 +226,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sankri15/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sankri15/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
