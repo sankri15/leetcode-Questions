@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sankri15/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sankri15/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/sankri15/leetcode/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/sankri15/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/sankri15/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sankri15/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sankri15/leetcode/tree/master/0053-maximum-subarray) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sankri15/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/sankri15/leetcode/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/sankri15/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sankri15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sankri15/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankri15/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
