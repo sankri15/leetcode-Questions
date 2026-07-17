@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sankri15/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sankri15/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sankri15/leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/sankri15/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sankri15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1288-remove-covered-intervals](https://github.com/sankri15/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sankri15/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sankri15/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sankri15/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sankri15/leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/sankri15/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/sankri15/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sankri15/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sankri15/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sankri15/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [3161-block-placement-queries](https://github.com/sankri15/leetcode/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sankri15/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sankri15/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
