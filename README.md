@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sankri15/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sankri15/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/sankri15/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [3161-block-placement-queries](https://github.com/sankri15/leetcode/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sankri15/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sankri15/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/sankri15/leetcode/tree/master/0089-gray-code) |
+| [0222-count-complete-tree-nodes](https://github.com/sankri15/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankri15/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
@@ -233,12 +235,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/sankri15/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/sankri15/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sankri15/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/sankri15/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
