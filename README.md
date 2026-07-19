@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sankri15/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sankri15/leetcode/tree/master/0045-jump-game-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankri15/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sankri15/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankri15/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sankri15/leetcode/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/sankri15/leetcode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/sankri15/leetcode/tree/master/0093-restore-ip-addresses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankri15/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sankri15/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sankri15/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -255,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/sankri15/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankri15/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankri15/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
