@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/sankri15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sankri15/leetcode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sankri15/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sankri15/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/sankri15/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/sankri15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sankri15/leetcode/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sankri15/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/sankri15/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/sankri15/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/sankri15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sankri15/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/sankri15/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/sankri15/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sankri15/leetcode/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/sankri15/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sankri15/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
