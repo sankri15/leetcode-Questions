@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sankri15/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/sankri15/leetcode/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/sankri15/leetcode/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/sankri15/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sankri15/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sankri15/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sankri15/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sankri15/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sankri15/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sankri15/leetcode/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/sankri15/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sankri15/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sankri15/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sankri15/leetcode/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/sankri15/leetcode/tree/master/1260-shift-2d-grid) |
 | [3379-transformed-array](https://github.com/sankri15/leetcode/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sankri15/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
