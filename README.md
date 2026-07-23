@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sankri15/leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/sankri15/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sankri15/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sankri15/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sankri15/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/sankri15/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sankri15/leetcode/tree/master/0048-rotate-image) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sankri15/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/sankri15/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sankri15/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sankri15/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sankri15/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
